@@ -1,0 +1,11 @@
+header {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+nav a {
+  color: #ff6600;
+  margin: 0 10px;
+}
